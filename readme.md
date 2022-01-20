@@ -1,6 +1,6 @@
 # Vefforritun 2, 2022. Verkefni 1: Gagnavinnsla
 
-[Kynning á verkefni í tíma](https://youtu.be/).
+[Kynning á verkefni í tíma](https://youtu.be/ow9NdluaWCs?t=110).
 
 Þér er falið það verkefni að útbúa gagnavinnslutól sem tekur við tölulegum gögnum, keyrir tölfræðilega vinnslu á þau og útbýr vef sem skilar niðurstöðum.
 
